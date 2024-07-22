@@ -1,0 +1,79 @@
+.about_title{
+    background-image: url(../../img/aboutbckgrond.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:400px
+}
+.about_title__text{
+    text-align: center;
+    color: white;
+    font-size: 64px;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    padding-top: 200px;
+}
+.founder_details{
+    position: relative;
+    top:50px;
+    left:10px;
+    color:white;
+    max-width: 400px;
+    text-align: left;
+}
+.founder_details__cover{
+    background-color: #7e8427;
+   
+}
+.founder_details__title{
+    font-size: 38px;
+    font-weight: 600;
+    letter-spacing: 1px;
+
+}
+.founder{
+    background-color: #f4e9e3;
+    margin-top: 300px;
+}
+.founder_details__subtitle{
+    font-size: 28px;
+    font-weight: 600;
+    margin-bottom: 48px;
+    letter-spacing: 1px;
+
+}
+.ingredients{
+    background-image: url(../../img/ingredientsbg.png);
+    height:1000px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.ingredients_title{
+    color: #7e8427;
+    font-size: 32px;
+    padding-left: 150px;
+    font-weight: 600;
+    padding-top: 160px;
+    text-align: left;
+}
+.ingredients_title a{
+    font-weight: 600;
+    color: #7e8427;
+    font-size: 32px;
+}
+.ingredient_description{
+    text-align: start;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    font-size: 16px;
+    max-width: 700px;
+    color: rgb(66, 66, 66);
+}
+.ingredients_description__cover{
+    padding-left: 40%;
+    padding-top: 150px;
+}
+.fixedbg{
+    background-image: url(../../img/aboutbg.jpg);
+    background-attachment: fixed;
+    height: 600px;
+}

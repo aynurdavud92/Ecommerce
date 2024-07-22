@@ -1,0 +1,47 @@
+.bath_body__title{
+    font-size:30px;
+    letter-spacing: 1px;
+    color:#3f3e3e;
+    text-align: left;
+    font-weight: 700;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+.container{
+    padding:80px 24px;
+    background-color:#f4e9e3;
+    letter-spacing: 0.5px;
+}
+.bath_body__description{
+    text-align: left;
+    color:#3f3e3e;
+}
+.product_item a img{
+    max-width: 290px;
+    margin-top: 24px;
+    
+}
+.products_cover{
+    margin-top: 48px;
+}
+
+.product_category{
+    color:#a1a0a0; 
+    margin-top: 24px;
+    text-align: left;
+}
+.product_title{
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    text-align: left;
+}
+.product_price{
+    text-align: left;
+    color:#3f3e3e; 
+    font-weight: 700;
+   
+}
+

@@ -1,0 +1,23 @@
+
+.navbar li a{
+    text-decoration: none;
+    font-size: 15px;
+    color: hsl(64, 54%, 34%);
+    font-weight: 400;
+}
+.navbar{
+    display: flex;
+    margin:0px 100px;
+}
+.navbar li{
+    width: max-content;
+}
+.header_cover{
+    display: flex;
+    justify-content: space-between;
+    
+    padding:18px 48px;
+}
+.account{
+    margin-top: 12px;
+}
